@@ -19,6 +19,8 @@ public class CounterUpdate {
         CounterUpdate.counter = counter;
     }
 
-
+    public int branchConflict(){
+        return 1;
+    }
 
 }
