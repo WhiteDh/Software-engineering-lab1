@@ -19,6 +19,8 @@ public class CounterUpdate {
         CounterUpdate.counter = counter;
     }
 
-
-
+    public void testFuncForLab(){
+        int a = 0;
+    }
+    
 }
